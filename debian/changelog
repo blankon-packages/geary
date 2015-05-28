@@ -1,3 +1,9 @@
+geary (0.10.0-0blankon4) tambora; urgency=medium
+
+  * change depends libgcr-3-1 to libgcr-ui-3-1 
+
+ -- Mahyuddin <yudi.al@gmail.com>  Thu, 28 May 2015 18:47:52 +0700
+
 geary (0.10.0-0blankon3) tambora; urgency=low
 
   * debian/geary-autostart.desktop
